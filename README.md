@@ -1,2 +1,2 @@
-# client-server-ebank
-This repository contains an e-Bank system which implements Java webservices (JAX), done as a project for Client-Server Architecture module.
+# eBank - Client-Server Architecture
+This repository contains an e-Bank system implemented Java webservices (JAX) as SOAP.
